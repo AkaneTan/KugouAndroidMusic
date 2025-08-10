@@ -225,7 +225,8 @@ aboutLibraries {
             "BSD-2-Clause",
             "BSD-3-Clause",
             "CC0-1.0",
-            "GPL-3.0-only"
+            "GPL-3.0-only",
+            "MIT"
         )
     }
 }
